@@ -1,0 +1,81 @@
+.Alim {
+    display: flex;
+    justify-content: flex-end;
+        align-items:center;
+        flex-direction: column;
+        color: black
+}
+.Alts {
+        font-size: 30px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        background-color: aqua;
+        color: blueviolet;
+}
+.Autv {
+    height: 90;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+ .yeu {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: black   ;
+    font-size: 20px;
+}
+.yeo {
+   
+    background-image: url('path/to/c:\Users\User\Pictures\Screenshots\IMG_2946.png');
+    background-size: contain;
+    width: 100px; 
+    height: 100px; 
+} */ 
+
+.Alm {
+    color: blue;
+}
+.Awq {
+    color: green;
+}
+
+ .Nur {
+   text-align: center;
+  font-variant: small-caps;
+}
+.Muh {
+   text-align: center;
+   font-size: 30px;
+}
+.Sah {
+    text-transform: uppercase;
+}
+.Win {
+    letter-spacing: 0.3;
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+.Queen {
+    word-spacing: 0.3;
+    text-align: center;
+    font-size: 30px;
+}
+.Tea {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+}
+.Admonish {
+    font-size: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.toxic {
+    font-style: oblique;
+    text-align: center;
+    font-size: 30px;
+}
