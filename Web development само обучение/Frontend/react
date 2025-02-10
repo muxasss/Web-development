@@ -1,0 +1,45 @@
+   Для того чтобы запустить реакт проект:
+   npx create-react-app любое название (my-app)
+   cd название проекта (my-app)
+   npm start
+   
+   
+   
+   
+    src - наш проект
+    Желательно надо перевести сайт на три основных языка: kg, ru, eng. Гугл тоже переводит 
+    но может перевести некорректно и иногда может требовать чтобы перевели.
+    Вместо a href="" используем link
+    DOM - Document Object Model
+
+    PX в цифрах - https://tailwindcss.com/docs/padding
+    React иконки - https://react-icons.github.io/react-icons
+
+
+
+
+    .report-block{
+  margin-top: 70px;
+  padding: 10px 20px;
+  background-color: #fbfb8a;
+  border: solid 1px ;
+  border-radius: 15px;
+  color: #333;
+  font-weight: bold;
+  font-size: 10px;
+  cursor: pointer;
+  height: 50px;
+  width: 200px;
+  transition: background-color 0.3s ease;
+}
+
+
+.report-block:hover{
+  background-color: rgb(213, 255, 136);
+}
+.report-block:active{
+    background-color: rgb(231, 231, 47);
+    border-radius: 0 10px 0 10px;
+    width: 160px;
+    height: 50px;
+}

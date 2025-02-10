@@ -1,0 +1,25 @@
+CSS - сокращенно от Cascading Style Sheets
+
+    <link rel="stylesheet" href="style.css"> - элемент, соединения css с html
+    color - цвет текста
+    background-color - цвет фона
+    body - селектор всей веб-страницы
+    . - класс
+    # - id
+    * - 
+
+
+    font-size - размер текста
+    font-family - шрифт текста
+    font-style - наклон текста
+    font-weight - жирность текста
+    height - высота
+    width - ширина
+    border - граница
+    solid - значение для border
+    border-radius - округление границ
+    background: transparent;
+    
+    Любой элемент имеет четыре отступа по часовой стрелке
+    padding - свойство отступа
+    padding: 0px (padding-top), 0px (), 0px (padding-bottom), 0px ()
